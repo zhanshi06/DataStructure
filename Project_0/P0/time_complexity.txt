@@ -1,0 +1,6 @@
+task0: """Worst Case Big-O is O(1)"""
+task1: """Worst Case Big-O is  O(n*n), because the worst case of set add is O(n)"""
+task2: """Worst Case Big-O is  O(n)"""
+task3: """Worst Case Big-O is  partA: O(n*log n), partB: O(1)"""
+task3: """Worst Case Big-O is  O(n*log n)"""
+
