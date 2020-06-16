@@ -1,6 +1,6 @@
-task0: """Worst Case Big-O is O(1)"""
-task1: """Worst Case Big-O is  O(n*n), because the worst case of set add is O(n)"""
-task2: """Worst Case Big-O is  O(n)"""
-task3: """Worst Case Big-O is  partA: O(n*log n), partB: O(1)"""
-task3: """Worst Case Big-O is  O(n*log n)"""
+task0: """Worst Case Big-O is O(1)""" Because it only call the array/list in constant time, the worst time complexity of Access is O(1), thus the worst case time complexity is constant, O(1);
+task1: """Worst Case Big-O is  O(n*n)""" , because the worst case of set add is O(n), and we iterate the list with O(n), each time call set Search, thus the worst case of the whole algorithm is O(n*n)
+task2: """Worst Case Big-O is  O(n)""" Because the record iterate takes the O(n) time and the sort operation takes the O(nlog(n)), so the worst case of the whole algorithm is O(nlogn)
+task3: """Worst Case Big-O is  partA: O(n*log n), partB: O(1)""" The partA require the go through of the record O(n) and the later sorted option require the O(nlog(n)), so the worst case of the whole algorithm is O(nlogn); The partB only us e the constant time;
+task4: """Worst Case Big-O is  O(n*log n)""" We go through the text and Call in O(n) time, then we sort the list in O(nlogn), so the worst case of the whole algorithm is O(nlogn);
 
