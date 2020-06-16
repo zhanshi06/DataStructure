@@ -8,7 +8,7 @@ This Repo includes the several project implemented related to the data structure
 
 Most of the codes can be ran directly using python *.py
 
-## detai
+## Detail
 
 ### Project_0: Investigating Texts and Calls
 
